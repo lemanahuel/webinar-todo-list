@@ -16,13 +16,12 @@ Objetivo
 
 Resultado
 - ToDo List capaz de:
--- Crear
--- Eliminar
--- Ordenar
--- Filtrar
-
+- Crear
+- Eliminar
+- Ordenar
+- Filtrar
 Bonus
--- Persistir tareas
+- Persistir tareas
 
 Por que una ToDo List?
 - Es un excelente ejemplo donde poder plasmar Javascript y varias
