@@ -1,36 +1,38 @@
 ## 💻 Webinar de Programación Web en Coderhosue
 Estaremos realizando una ToDo List para aplicar varios metodos funcionales
 
+## Por que una ToDo List?
+Es un excelente ejemplo donde poder plasmar Javascript y varias
 
 ## Video 
 👉 https://youtu.be/FdcVkF4LELM
 
-### RoadMap
+---
 
-# Setup
+## RoadMap
+
+### Setup
 - HTML5 Boilerplate
 - Bootstrap
 - Editor VSC
 
-# Objetivo
+### Objetivo
 - Ver Javascript Nativo
 - Combiando con Jquery, 
 - Utilizando objetos y programacion funcional
 - Magia
 
-# Resultado
+### Resultado
 - ToDo List capaz de:
 - Crear
 - Eliminar
 - Ordenar
 - Filtrar
-# Bonus
+
+### Bonus
 - Persistir tareas
 
-# Por que una ToDo List?
-- Es un excelente ejemplo donde poder plasmar Javascript y varias
-
-# Roadmap
+### Roadmap
 - Setear el entorno
 - Modulo
 - Crear tarea
