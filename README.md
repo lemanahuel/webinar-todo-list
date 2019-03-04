@@ -1,4 +1,4 @@
-## 💻 Webinar de Programación Web en Coderhosue
+## 💻 Webinar de Programación Web en Coderhouse
 Estaremos realizando una ToDo List para aplicar varios metodos funcionales
 
 ## Por que una ToDo List?
