@@ -7,8 +7,6 @@ Es un excelente ejemplo donde poder plasmar Javascript y varias
 ## Video 
 👉 https://youtu.be/FdcVkF4LELM
 
----
-
 ## RoadMap
 
 ### Setup
