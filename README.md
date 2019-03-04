@@ -46,6 +46,3 @@ Estaremos realizando una ToDo List para aplicar varios metodos funcionales
 ### Contacto
 
 👋 [Nahuel Lema](https://www.linkedin.com/in/nahuellema/)
-
-
-# webinar-todo-list
